@@ -24,7 +24,7 @@ This project develops and deploys an effective deep-learning model on a Cortex-M
 ## Experiment Result
 
 <p align="center">
-  <img src="Images/Experiment_Result.jpg" alt="Experiment Result" width=70%/>
+  <img src="Images/Experiment_Result.jpg" alt="Experiment Result" width=80%/>
 </p>
 
 | MobilenetV1  | Accuracy     | Memory Usage | Latency |
